@@ -1,4 +1,4 @@
-{
+[
 	{
 		"City": "Seoul",
 		"Country": "South Korea"
@@ -72,4 +72,4 @@
 		"City": "Sydney",
 		"Country ": "Australia "
 	},
-}
+]
