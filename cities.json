@@ -1,0 +1,75 @@
+{
+	{
+		"City": "Seoul",
+		"Country": "South Korea"
+	}, {
+		"City": "São Paulo",
+		"Country": "Brazil"
+	}, {
+		"City": "Bombay",
+		"Country": "India"
+	}, {
+		"City": "JAKARTA",
+		"Country": "Indonesia"
+	}, {
+		"City": "Karachi",
+		"Country": "Pakistan"
+	}, {
+		"City": "Moscow",
+		"Country": "Russia"
+	}, {
+		"City": "Istanbul",
+		"Country": "Turkey"
+	}, {
+		"City": "Shanghai",
+		"Country": "China"
+	}, {
+		"City": "TOKYO",
+		"Country": "Japan"
+	}, {
+		"City": "New York",
+		"Country": "USA"
+	}, {
+		"City": "BANGKOK",
+		"Country": "Thailand"
+	}, {
+		"City": "BEIJING",
+		"Country": "China"
+	}, {
+		"City": "Delhi",
+		"Country": "India"
+	}, {
+		"City": "LONDON",
+		"Country": "UK"
+	}, {
+		"City": "HongKong",
+		"Country": "China"
+	}, {
+		"City": "CAIRO",
+		"Country": "Egypt"
+	}, {
+		"City": "BOGOTA",
+		"Country": "Colombia"
+	}, {
+		"City": "Tianjin",
+		"Country": "China"
+	}, {
+		"City": "Lahore",
+		"Country": "Pakistan"
+	}, {
+		"City": "SANTIAGO",
+		"Country": "Chile"
+	}, {
+		"City": "Shenyang",
+		"Country": "China"
+	}, {
+		"City": "Wuhan",
+		"Country": "China"
+	}, {
+		"City": "Calcutta",
+		"Country": "India"
+	}, {
+		"City": "Sydney",
+		"Country ": "Australia "
+	},
+}
